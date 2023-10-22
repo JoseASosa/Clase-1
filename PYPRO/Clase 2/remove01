@@ -1,0 +1,5 @@
+nombres = ["Anthony", "Angelica", "Alex", "Chris", "Dariel"] 
+
+# remove
+nombres.remove("Angelica")
+print(nombres)
